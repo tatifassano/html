@@ -26,3 +26,31 @@
   </g>
 </svg>
         </button>
+        
+        
+        
+        
+        
+        <a href="http://twitter.com" target = "_blank">   <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="82" height="31" viewBox="0 0 82 31">
+  <defs>
+    <clipPath id="clip-Acceso_Header">
+      <rect width="82" height="31"/>
+    </clipPath>
+  </defs>
+  <g id="Acceso_Header" data-name="Acceso Header" clip-path="url(#clip-Acceso_Header)">
+    <rect width="82" height="31" fill="#fff"/>
+    <g id="Grupo_6273" data-name="Grupo 6273" transform="translate(-548 -61)">
+      <g id="Grupo_6261" data-name="Grupo 6261" transform="translate(580.759 70)">
+        <text id="Perfil_21" data-name="Perfil 21" transform="translate(0.24 10)" fill="#606060" font-size="11" font-family="OpenSans-Regular, Open Sans"><tspan x="0" y="0">Perfil 21</tspan></text>
+      </g>
+      <rect id="Rectángulo_2233" data-name="Rectángulo 2233" width="82" height="31" transform="translate(548 61)" fill="none"/>
+      <g id="Grupo_6265" data-name="Grupo 6265" transform="translate(563.121 70)">
+        <path id="Trazado_2435" data-name="Trazado 2435" d="M525.171,417.848v14.065h10.911l2.756-14.065Z" transform="translate(-525.171 -417.848)" fill="#173f35"/>
+        <path id="Trazado_2436" data-name="Trazado 2436" d="M533.591,422.948a3.224,3.224,0,0,0-2.119-.59,6.856,6.856,0,0,0-1.367.145,7.2,7.2,0,0,0-.707.183l-.352,1.824a4.251,4.251,0,0,1,.753-.323,3.625,3.625,0,0,1,1.076-.148,1.166,1.166,0,0,1,.863.277.958.958,0,0,1,.266.692,1.626,1.626,0,0,1-.525,1.145,19.011,19.011,0,0,1-2.121,1.675l-1.1.788-.41,2.127h5.393l.333-1.73h-3.249l1.422-1a8.953,8.953,0,0,0,1.916-1.737,2.9,2.9,0,0,0,.623-1.79,1.932,1.932,0,0,0-.692-1.542" transform="translate(-526.156 -419.51)" fill="#fff"/>
+        <path id="Trazado_2437" data-name="Trazado 2437" d="M545.513,417.848h-.55l-2.757,14.065h3.308Z" transform="translate(-531.448 -417.848)" fill="#173f35"/>
+        <path id="Trazado_2438" data-name="Trazado 2438" d="M540.928,427.081l-2.051.7-.353,1.832,1.57-.625-1.237,6.332h1.993l1.613-8.234Z" transform="translate(-530.091 -421.25)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>
+</a>
