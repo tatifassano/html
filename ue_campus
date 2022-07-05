@@ -31,26 +31,29 @@
         
         
         
-        <a href="https://miperfil.21.edu.ar/" target = "_blank">   <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="82" height="31" viewBox="0 0 82 31">
+        <a href="http://twitter.com" target = "_blank">   <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="189" height="79" viewBox="0 0 189 79">
   <defs>
-    <clipPath id="clip-Acceso_Header">
-      <rect width="82" height="31"/>
+    <clipPath id="clip-Boton">
+      <rect width="189" height="79"/>
     </clipPath>
   </defs>
-  <g id="Acceso_Header" data-name="Acceso Header" clip-path="url(#clip-Acceso_Header)">
-    <rect width="82" height="31" fill="#fff"/>
-    <g id="Grupo_6273" data-name="Grupo 6273" transform="translate(-548 -61)">
-      <g id="Grupo_6261" data-name="Grupo 6261" transform="translate(580.759 70)">
-        <text id="Perfil_21" data-name="Perfil 21" transform="translate(0.24 10)" fill="#606060" font-size="11" font-family="OpenSans-Regular, Open Sans"><tspan x="0" y="0">Perfil 21</tspan></text>
-      </g>
-      <rect id="Rectángulo_2233" data-name="Rectángulo 2233" width="82" height="31" transform="translate(548 61)" fill="none"/>
-      <g id="Grupo_6265" data-name="Grupo 6265" transform="translate(563.121 70)">
-        <path id="Trazado_2435" data-name="Trazado 2435" d="M525.171,417.848v14.065h10.911l2.756-14.065Z" transform="translate(-525.171 -417.848)" fill="#173f35"/>
-        <path id="Trazado_2436" data-name="Trazado 2436" d="M533.591,422.948a3.224,3.224,0,0,0-2.119-.59,6.856,6.856,0,0,0-1.367.145,7.2,7.2,0,0,0-.707.183l-.352,1.824a4.251,4.251,0,0,1,.753-.323,3.625,3.625,0,0,1,1.076-.148,1.166,1.166,0,0,1,.863.277.958.958,0,0,1,.266.692,1.626,1.626,0,0,1-.525,1.145,19.011,19.011,0,0,1-2.121,1.675l-1.1.788-.41,2.127h5.393l.333-1.73h-3.249l1.422-1a8.953,8.953,0,0,0,1.916-1.737,2.9,2.9,0,0,0,.623-1.79,1.932,1.932,0,0,0-.692-1.542" transform="translate(-526.156 -419.51)" fill="#fff"/>
-        <path id="Trazado_2437" data-name="Trazado 2437" d="M545.513,417.848h-.55l-2.757,14.065h3.308Z" transform="translate(-531.448 -417.848)" fill="#173f35"/>
-        <path id="Trazado_2438" data-name="Trazado 2438" d="M540.928,427.081l-2.051.7-.353,1.832,1.57-.625-1.237,6.332h1.993l1.613-8.234Z" transform="translate(-530.091 -421.25)" fill="#fff"/>
-      </g>
+  <g id="Boton" clip-path="url(#clip-Boton)">
+    <rect width="189" height="79" fill="#fff"/>
+    <rect id="Rectángulo_2246" data-name="Rectángulo 2246" width="189" height="79" rx="4" fill="#173f35"/>
+    <path id="Rectángulo_2247" data-name="Rectángulo 2247" d="M0,0H43a4,4,0,0,1,4,4V75a4,4,0,0,1-4,4H0a0,0,0,0,1,0,0V0A0,0,0,0,1,0,0Z" transform="translate(142)" fill="#132b25"/>
+    <g id="Grupo_6271" data-name="Grupo 6271" transform="translate(-1155 -598)">
+      <text id="_21" data-name="21" transform="translate(1219 626)" fill="#fff" font-size="17" font-family="Arial-BoldMT, Arial" font-weight="700" letter-spacing="-0.01em"><tspan x="0" y="0">21</tspan></text>
+      <text id="Perfil" transform="translate(1169 626)" fill="#fff" font-size="17" font-family="Arial-BoldMT, Arial" font-weight="700" letter-spacing="-0.02em"><tspan x="0" y="0">Pe</tspan><tspan y="0" letter-spacing="0.06em">rf</tspan><tspan y="0" letter-spacing="0.02em">il</tspan></text>
+      <text id="Accede_a_tu_historial_de_información" data-name="Accede a tu historial 
+de información" transform="translate(1170 634)" fill="#fff" font-size="12" font-family="Arial-ItalicMT, Arial" font-style="italic" letter-spacing="0.006em"><tspan x="0" y="11">Accede a tu historial </tspan><tspan x="0" y="25">de información</tspan></text>
+    </g>
+    <g id="Grupo_6272" data-name="Grupo 6272" transform="translate(-372.171 -390.848)">
+      <path id="Trazado_2435" data-name="Trazado 2435" d="M525.171,417.848v26h19.993l5.05-26Z" transform="translate(-1 0)" fill="#fff"/>
+      <path id="Trazado_2436" data-name="Trazado 2436" d="M538.465,423.449a5.96,5.96,0,0,0-3.916-1.091,12.667,12.667,0,0,0-2.527.267,13.3,13.3,0,0,0-1.307.339l-.65,3.372a7.857,7.857,0,0,1,1.391-.6,6.7,6.7,0,0,1,1.988-.273,2.156,2.156,0,0,1,1.595.511,1.772,1.772,0,0,1,.493,1.279,3,3,0,0,1-.97,2.116,35.134,35.134,0,0,1-3.92,3.1l-2.038,1.457-.758,3.931h9.968l.616-3.2h-6.006l2.629-1.84a16.547,16.547,0,0,0,3.542-3.211,5.353,5.353,0,0,0,1.151-3.309,3.571,3.571,0,0,0-1.279-2.849" transform="translate(0.288 0.755)" fill="#132b25"/>
+      <path id="Trazado_2437" data-name="Trazado 2437" d="M548.319,417.848H547.3l-5.1,26h6.114Z" transform="translate(2.69 0)" fill="#fff"/>
+      <path id="Trazado_2438" data-name="Trazado 2438" d="M542.968,427.081l-3.79,1.287-.653,3.386,2.9-1.156-2.287,11.7h3.683l2.982-15.22Z" transform="translate(2.074 1.545)" fill="#132b25"/>
     </g>
   </g>
 </svg>
+
 </a>
