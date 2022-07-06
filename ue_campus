@@ -105,3 +105,8 @@ de información" transform="translate(1170 634)" fill="#fff" font-size="12" font
 
 </a>
  </div></div></body></html>
+ 
+ 
+ 
+ 
+ <image   onClick="abrirLegales();" src="../img/portal-academico-opt.png"/>
